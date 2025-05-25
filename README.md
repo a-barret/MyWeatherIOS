@@ -4,8 +4,6 @@ This application allows the user to enter a city name and the program will fetch
 
 I created this app to understand better how to build mobile applications for iOS and also to increase my understanding of APIs.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Swift Weather IOS App Video Demonstration](http://youtube.link.goes.here)
 
 # Development Environment
@@ -16,7 +14,6 @@ I use the swift language coupled with the SwiftUI framework to write the code fo
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Open Weather](https://openweathermap.org)
 * [Stack Overflow](https://stackoverflow.com/questions/33091948/using-openweathermap-api-gives-401-error)
 * [Grok (AI)](https://grok.com)
