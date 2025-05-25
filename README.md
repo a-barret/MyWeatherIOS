@@ -4,7 +4,7 @@ This application allows the user to enter a city name and the program will fetch
 
 I created this app to understand better how to build mobile applications for iOS and also to increase my understanding of APIs.
 
-[Swift Weather IOS App Video Demonstration](http://youtube.link.goes.here)
+[Swift Weather IOS App Video Demonstration](https://youtu.be/LhRXs2oK_Vc)
 
 # Development Environment
 
